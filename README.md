@@ -1,2 +1,2 @@
 # nlp-tech
-translation
+use back-translation to augment the data set
