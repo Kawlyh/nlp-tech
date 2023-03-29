@@ -3,3 +3,4 @@
 run translate.py
 ## use r-drop to augment your training result
 use rdrop.py
+u can find the initial code here https://github.com/dropreg/R-Drop
